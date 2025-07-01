@@ -1,4 +1,1 @@
-print("Hello Git")
-print("수정완료")
-
-print("마지막수정")
+print ("진짜마지막")
