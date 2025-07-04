@@ -1,1 +1,1 @@
-print("Hello Git")
+print("브런치")
